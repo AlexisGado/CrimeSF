@@ -1,3 +1,4 @@
 {
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/Users/ambroise/.conda/envs/Projet_DEP_NEPTUNE/bin/python"
 }
